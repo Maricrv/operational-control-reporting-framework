@@ -62,6 +62,7 @@ operational-control-reporting-framework/
 │
 └── README.md
 
+```text
 ---
 
 ## Key Deliverables
