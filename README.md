@@ -38,3 +38,89 @@ The objective of this project is to demonstrate how a Business Analyst can:
 
 ## Repository Structure
 
+operational-control-reporting-framework/
+│
+├── 01_business_context/
+│ ├── business_problem_statement.md
+│ └── stakeholders.md
+│
+├── 02_process_analysis/
+│ ├── process_overview.md
+│ └── process_stages.md
+│
+├── 03_kpis_and_metrics/
+│ └── kpi_definition.md
+│
+├── 04_data/
+│ ├── sample_dataset.xlsx
+│ └── data_dictionary.md
+│
+├── 05_dashboard/
+│ ├── dashboard_description.md
+│ └── dashboard_screenshots/
+│
+└── README.md
+
+
+---
+
+## Key Deliverables
+
+### 📄 Business Documentation
+- Business Problem Statement  
+- Stakeholder Analysis  
+- End-to-end Process Analysis  
+- KPI and Metrics Definition  
+
+### 📊 Data & Analytics
+- Operational dataset (Excel)  
+- Data Dictionary  
+- KPI-driven metrics  
+
+### 📈 Dashboard Design
+- Single-page operational dashboard concept  
+- KPIs, tables, charts, and filters designed for decision-makers  
+- Ready for implementation in Power BI  
+
+---
+
+## Tools & Skills Demonstrated
+
+- Business Analysis & Process Modeling  
+- KPI Definition & Operational Metrics  
+- Excel-based Data Structuring  
+- Dashboard Design (Power BI concept)  
+- Stakeholder-focused Reporting  
+- Risk and Incident Monitoring  
+- Structured Documentation (Markdown)  
+
+---
+
+## How This Project Is Used
+
+This project is intended as a **portfolio case study** to demonstrate:
+
+- Business Analyst thinking applied to real operational complexity  
+- Ability to translate hands-on operational experience into professional, structured deliverables  
+- Readiness to work in data-driven, process-oriented environments  
+
+All data, scenarios, and examples are illustrative and anonymized.
+
+---
+
+## Next Steps (Optional Extensions)
+
+- Build the Power BI dashboard using `sample_dataset.xlsx`  
+- Add dashboard screenshots to `/05_dashboard/dashboard_screenshots`  
+- Extend the dataset with multi-stage or time-series data  
+- Add a lessons-learned or recommendations section  
+
+---
+
+## Author
+
+**Mariela Ramos**  
+Business Analyst | Data-Driven Operations | Process Optimization  
+
+---
+
