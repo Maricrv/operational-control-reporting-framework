@@ -67,18 +67,18 @@ operational-control-reporting-framework/
 
 ## Key Deliverables
 
-### 📄 Business Documentation
+### Business Documentation
 - Business Problem Statement  
 - Stakeholder Analysis  
 - End-to-end Process Analysis  
 - KPI and Metrics Definition  
 
-### 📊 Data & Analytics
+### Data & Analytics
 - Operational dataset (Excel)  
 - Data Dictionary  
 - KPI-driven metrics  
 
-### 📈 Dashboard Design
+### Dashboard Design
 - Single-page operational dashboard concept  
 - KPIs, tables, charts, and filters designed for decision-makers  
 - Ready for implementation in Power BI  
