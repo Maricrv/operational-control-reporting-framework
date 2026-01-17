@@ -109,15 +109,6 @@ All data, scenarios, and examples are illustrative and anonymized.
 
 ---
 
-## Next Steps (Optional Extensions)
-
-- Build the Power BI dashboard using `sample_dataset.xlsx`  
-- Add dashboard screenshots to `/05_dashboard/dashboard_screenshots`  
-- Extend the dataset with multi-stage or time-series data  
-- Add a lessons-learned or recommendations section  
-
----
-
 ## Author
 
 **Mariela Ramos**  
