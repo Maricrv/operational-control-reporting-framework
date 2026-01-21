@@ -53,24 +53,35 @@ Technical implementation details (applications, infrastructure, integrations) ar
 
 ## How to Navigate This Project
 
-If you are reviewing this repository for the first time, the recommended reading order is:
+> **Recommended approach:**  
+> Start with the **business context** to understand the operational problem and stakeholders.  
+> Then review the **system-level view** to see how the operation is controlled and decisions are made.  
+> Finally, drill down into **process stages, risks, KPIs, and detailed controls**.  
+>  
+> The numbering of folders reflects the **analytical structure**, not the reading order.
 
-1. **System Overview**  
-   👉 [`06_system_design/system_overview.md`](06_system_design/system_overview.md)
+Recommended reading order:
 
-2. **Process Stages and Operational Risks**  
+1. **Business Context and Problem Definition**  
+   - [`01_business_context/business_problem_statement.md`](01_business_context/business_problem_statement.md)  
+   - [`01_business_context/stakeholders.md`](01_business_context/stakeholders.md)
+
+2. **System Overview (overall logic and decision framework)**  
+   - [`06_system_design/system_overview.md`](06_system_design/system_overview.md)
+
+3. **Process Stages and Operational Risks**  
    - [`02_process_analysis/process_stages.md`](02_process_analysis/process_stages.md)  
    - [`02_process_analysis/process_risks_and_controls.md`](02_process_analysis/process_risks_and_controls.md)
 
-3. **KPI Framework and Action Rules**  
+4. **KPI Framework and Action Rules**  
    - [`03_kpis_and_metrics/kpi_definition.md`](03_kpis_and_metrics/kpi_definition.md)  
    - [`03_kpis_and_metrics/kpi_action_matrix.md`](03_kpis_and_metrics/kpi_action_matrix.md)
 
-4. **Decision Flows and Escalation Logic**  
-   👉 [`06_system_design/decision_flows.md`](06_system_design/decision_flows.md)
+5. **Decision Flows and Escalation Logic**  
+   - [`06_system_design/decision_flows.md`](06_system_design/decision_flows.md)
 
-5. **Executive Reporting Perspective**  
-   👉 [`05_dashboard/executive_dashboard_narrative.md`](05_dashboard/executive_dashboard_narrative.md)
+6. **Executive Reporting Perspective**  
+   - [`05_dashboard/executive_dashboard_narrative.md`](05_dashboard/executive_dashboard_narrative.md)
 
 ---
 
@@ -105,3 +116,72 @@ operational-control-reporting-framework/
 │ └── system_artifacts_index.md
 │
 └── README.md
+```
+## Key Deliverables
+
+### 1. Process Analysis
+- End-to-end operational process overview  
+- Phase-based analysis (Preparation, Execution, Closure)  
+- Identification of operational risks and control mechanisms  
+
+📄 **Key files:**  
+- [`02_process_analysis/process_overview.md`](02_process_analysis/process_overview.md)  
+- [`02_process_analysis/process_stages.md`](02_process_analysis/process_stages.md)  
+
+---
+
+### 2. KPIs and Decision Rules
+- Definition of critical operational KPIs  
+- KPI-to-action matrix linking metrics to decisions  
+- Emphasis on leading and lagging indicators  
+
+📄 **Key files:**  
+- [`03_kpis_and_metrics/kpi_definition.md`](03_kpis_and_metrics/kpi_definition.md)  
+- [`03_kpis_and_metrics/kpi_action_matrix.md`](03_kpis_and_metrics/kpi_action_matrix.md)  
+
+---
+
+### 3. Conceptual System Design
+- Operational Control & Reporting System overview  
+- Decision flows for deviations, incidents, and data integrity risks  
+- Clear escalation paths and decision ownership  
+
+📄 **Key files:**  
+- [`06_system_design/system_overview.md`](06_system_design/system_overview.md)  
+- [`06_system_design/decision_flows.md`](06_system_design/decision_flows.md)  
+
+---
+
+### 4. Executive Reporting
+- Executive dashboard narrative  
+- Guidance on how leadership interprets indicators  
+- Focus on action and decision support, not descriptive reporting  
+
+📄 **Key file:**  
+- [`05_dashboard/executive_dashboard_narrative.md`](05_dashboard/executive_dashboard_narrative.md)  
+
+---
+
+## Intended Audience
+This project is intended for:
+
+- Business Analysts  
+- Operations and Program Managers  
+- PMO, Governance, and Control teams  
+- Risk and Compliance stakeholders  
+- Hiring managers evaluating BA capability in operational environments  
+
+---
+
+## How to Use This Repository
+This repository can be used as:
+
+- A **Business Analyst portfolio case study**  
+- A **reference model** for operational control frameworks  
+- An example of **decision-driven KPI and reporting design**  
+
+---
+
+## Disclaimer
+This project is inspired by real-world large-scale operations.  
+All scenarios, data, and structures are **fully anonymized and illustrative** and are intended solely for demonstration purposes.
