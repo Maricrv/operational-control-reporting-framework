@@ -2,46 +2,52 @@
 **Business Analyst Portfolio Project**
 
 ## Overview
+This repository presents a **Business Analyst case study** focused on **operational control, monitoring, and decision support** in a **large-scale, time-critical, distributed operation**.
 
-This repository presents a **Business Analyst case study** focused on operational control, monitoring, and decision support in a **large-scale, time-critical, distributed operation**.
+The project demonstrates how structured **process analysis, KPIs, and reporting frameworks** can improve operational visibility, reduce risk, and support **timely decision-making under non-negotiable deadlines**.
 
-The project is inspired by real-world experience and has been **fully anonymized** for confidentiality purposes.  
-It demonstrates how structured business analysis, KPIs, and reporting frameworks can improve operational visibility, reduce risk, and support timely decision-making under strict deadlines.
+All content is **fully anonymized and illustrative**, inspired by real-world operational experience.
 
 ---
 
 ## Business Context
+The operation represented in this case study involves:
 
-The organization manages nationwide operations that require:
-
-- Coordinated setup of multiple operational sites across different regions  
-- Dependency on external service providers  
+- Multiple distributed operational units executing in parallel  
 - Strict and non-negotiable deadlines  
-- Continuous monitoring of execution progress  
-- High accountability and reputational risk  
+- Dependency on real-time reporting and issue resolution  
+- High operational and reputational risk if execution is delayed or incomplete  
 
-Operational success depends on achieving **100% processing completion**, resolving incidents in real time, and closing operations in a controlled and compliant manner.
+Operational success depends on:
+- Achieving **100% execution completion**
+- Maintaining **continuous visibility**
+- Managing incidents and risks in real time
+- Supporting leadership decisions during execution
 
 ---
 
 ## Project Objectives
+This project demonstrates how a Business Analyst can:
 
-The objective of this project is to demonstrate how a Business Analyst can:
-
-- Translate complex operational work into clear, structured business language  
-- Identify stage-specific risks and operational challenges  
-- Define meaningful KPIs aligned with decision-making needs  
-- Design an operational reporting framework for management  
-- Enable proactive, data-driven operational control  
+- Translate complex operational execution into **clear business processes**
+- Identify **stage-specific operational risks**
+- Define **decision-oriented KPIs**
+- Design a **conceptual operational control system**
+- Support executive and operational decision-making through reporting
 
 ---
 
-## System Design (Conceptual)
-This repository includes a conceptual design for an Operational Control & Reporting System:
-- System overview and decision flows
-- KPI-to-action rules
-- Executive dashboard narrative
-All content is anonymized and illustrative.
+## Scope and Approach
+This repository represents a **conceptual business system design**, not a production software solution.
+
+It focuses on:
+- Process design and analysis
+- Risk identification and controls
+- KPI definition and action rules
+- Decision flows and escalation logic
+- Executive reporting and dashboard narratives
+
+Technical implementation (applications, infrastructure, integrations) is intentionally **out of scope**.
 
 ---
 
@@ -50,24 +56,30 @@ All content is anonymized and illustrative.
 ```text
 operational-control-reporting-framework/
 │
-├── 01_business_context/
-│   ├── business_problem_statement.md
-│   └── stakeholders.md
+01_business_context/
+│ ├── business_problem_statement.md
+│ └── stakeholders.md
 │
-├── 02_process_analysis/
-│   ├── process_overview.md
-│   └── process_stages.md
+02_process_analysis/
+│ ├── process_overview.md
+│ ├── process_stages.md
+│ └── process_risks_and_controls.md
 │
-├── 03_kpis_and_metrics/
-│   └── kpi_definition.md
+03_kpis_and_metrics/
+│ ├── kpi_definition.md
+│ └── kpi_action_matrix.md
 │
-├── 04_data/
-│   ├── sample_dataset.xlsx
-│   └── data_dictionary.md
+04_data/
+│ ├── data_dictionary.md
+│ └── sample_dataset.xlsx
 │
-├── 05_dashboard/
-│   ├── dashboard_description.md
-│   └── dashboard_screenshots/
+05_dashboard/
+│ └── executive_dashboard_narrative.md
+│
+06_system_design/
+│ ├── system_overview.md
+│ ├── decision_flows.md
+│ └── system_artifacts_index.md
 │
 └── README.md
 ```
@@ -76,52 +88,48 @@ operational-control-reporting-framework/
 
 ## Key Deliverables
 
-### Business Documentation
-- Business Problem Statement  
-- Stakeholder Analysis  
-- End-to-end Process Analysis  
-- KPI and Metrics Definition  
+### 1. Process Analysis
+- End-to-end operational process definition
+- Phase-based analysis (Preparation, Execution, Closure)
+- Identification of key operational risks and controls
 
-### Data & Analytics
-- Operational dataset (Excel)  
-- Data Dictionary  
-- KPI-driven metrics  
+### 2. KPIs and Decision Rules
+- Definition of critical operational KPIs
+- KPI-to-action matrix linking metrics to decisions
+- Focus on leading and lagging indicators
 
-### Dashboard Design
-- Single-page operational dashboard concept  
-- KPIs, tables, charts, and filters designed for decision-makers  
-- Ready for implementation in Power BI  
+### 3. Conceptual System Design
+- Operational Control & Reporting System overview
+- Decision flows for deviations, incidents, and data risks
+- Clear escalation logic and decision ownership
 
----
-
-## Tools & Skills Demonstrated
-
-- Business Analysis & Process Modeling  
-- KPI Definition & Operational Metrics  
-- Excel-based Data Structuring  
-- Dashboard Design (Power BI concept)  
-- Stakeholder-focused Reporting  
-- Risk and Incident Monitoring  
-- Structured Documentation (Markdown)  
+### 4. Executive Reporting
+- Executive dashboard narrative
+- Guidance on how leadership should interpret and act on indicators
+- Emphasis on decision support over descriptive reporting
 
 ---
 
-## How This Project Is Used
+## Intended Audience
+This project is designed for:
 
-This project is intended as a **portfolio case study** to demonstrate:
-
-- Business Analyst thinking applied to real operational complexity  
-- Ability to translate hands-on operational experience into professional, structured deliverables  
-- Readiness to work in data-driven, process-oriented environments  
-
-All data, scenarios, and examples are illustrative and anonymized.
-
----
-
-## Author
-
-**Mariela Ramos**  
-Business Analyst | Data-Driven Operations | Process Optimization  
+- Business Analysts
+- Operations and Program Managers
+- PMO and Governance teams
+- Risk and Control stakeholders
+- Hiring managers evaluating BA capability in operational environments
 
 ---
 
+## How to Use This Repository
+Readers can:
+- Review the **process analysis** to understand operational flow and risks
+- Explore the **KPI framework** to see how metrics drive decisions
+- Examine the **system design artifacts** to understand how reporting supports execution
+- Use the project as a **reference model** for operational control frameworks
+
+---
+
+## Disclaimer
+This project is inspired by real-world large-scale operations.  
+All scenarios, data, structures, and examples are **fully anonymized and illustrative** and are intended solely for demonstration purposes.
