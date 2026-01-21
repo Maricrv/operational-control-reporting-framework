@@ -51,6 +51,29 @@ Technical implementation details (applications, infrastructure, integrations) ar
 
 ---
 
+## How to Navigate This Project
+
+If you are reviewing this repository for the first time, the recommended reading order is:
+
+1. **System Overview**  
+   👉 [`06_system_design/system_overview.md`](06_system_design/system_overview.md)
+
+2. **Process Stages and Operational Risks**  
+   - [`02_process_analysis/process_stages.md`](02_process_analysis/process_stages.md)  
+   - [`02_process_analysis/process_risks_and_controls.md`](02_process_analysis/process_risks_and_controls.md)
+
+3. **KPI Framework and Action Rules**  
+   - [`03_kpis_and_metrics/kpi_definition.md`](03_kpis_and_metrics/kpi_definition.md)  
+   - [`03_kpis_and_metrics/kpi_action_matrix.md`](03_kpis_and_metrics/kpi_action_matrix.md)
+
+4. **Decision Flows and Escalation Logic**  
+   👉 [`06_system_design/decision_flows.md`](06_system_design/decision_flows.md)
+
+5. **Executive Reporting Perspective**  
+   👉 [`05_dashboard/executive_dashboard_narrative.md`](05_dashboard/executive_dashboard_narrative.md)
+
+---
+
 ## Repository Structure
 
 ```text
@@ -82,55 +105,3 @@ operational-control-reporting-framework/
 │ └── system_artifacts_index.md
 │
 └── README.md
-```
-
----
-
-## Key Deliverables
-
-### 1. Process Analysis
-- End-to-end operational process overview  
-- Phase-based analysis (Preparation, Execution, Closure)  
-- Identification of operational risks and control mechanisms  
-
-### 2. KPIs and Decision Rules
-- Definition of critical operational KPIs  
-- KPI-to-action matrix linking metrics to decisions  
-- Emphasis on leading and lagging indicators  
-
-### 3. Conceptual System Design
-- Operational Control & Reporting System overview  
-- Decision flows for deviations, incidents, and data integrity risks  
-- Clear escalation paths and decision ownership  
-
-### 4. Executive Reporting
-- Executive dashboard narrative  
-- Guidance on how leadership interprets indicators  
-- Focus on action and decision support, not descriptive reporting  
-
----
-
-## Intended Audience
-This project is intended for:
-
-- Business Analysts  
-- Operations and Program Managers  
-- PMO, Governance, and Control teams  
-- Risk and Compliance stakeholders  
-- Hiring managers evaluating BA capability in operational environments  
-
----
-
-## How to Use This Repository
-Readers can:
-
-- Review the **process analysis** to understand operational flow and risks  
-- Explore the **KPI framework** to see how metrics drive decisions  
-- Examine the **system design artifacts** to understand decision logic  
-- Use the project as a **reference model** for operational control frameworks  
-
----
-
-## Disclaimer
-This project is inspired by real-world large-scale operations.  
-All scenarios, data, and structures are **fully anonymized and illustrative** and are intended solely for demonstration purposes.
