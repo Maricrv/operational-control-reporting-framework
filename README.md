@@ -4,7 +4,7 @@
 ## Overview
 This repository presents a **Business Analyst case study** focused on **operational control, monitoring, and decision support** in a **large-scale, time-critical, distributed operation**.
 
-The project demonstrates how structured **process analysis, KPIs, and reporting frameworks** can improve operational visibility, reduce risk, and support **timely decision-making under non-negotiable deadlines**.
+The project demonstrates how structured **process analysis, risk identification, KPIs, and reporting frameworks** support **real-time decision-making** and help ensure **100% execution completion under non-negotiable deadlines**.
 
 All content is **fully anonymized and illustrative**, inspired by real-world operational experience.
 
@@ -14,40 +14,40 @@ All content is **fully anonymized and illustrative**, inspired by real-world ope
 The operation represented in this case study involves:
 
 - Multiple distributed operational units executing in parallel  
-- Strict and non-negotiable deadlines  
-- Dependency on real-time reporting and issue resolution  
-- High operational and reputational risk if execution is delayed or incomplete  
+- Strict, non-negotiable execution deadlines  
+- Continuous reporting and monitoring requirements  
+- Operational, reputational, and delivery risk  
 
 Operational success depends on:
-- Achieving **100% execution completion**
-- Maintaining **continuous visibility**
-- Managing incidents and risks in real time
-- Supporting leadership decisions during execution
+- Full execution completion  
+- Early detection of deviations and risks  
+- Timely corrective actions and escalation  
+- Clear executive visibility during execution  
 
 ---
 
 ## Project Objectives
-This project demonstrates how a Business Analyst can:
+This project demonstrates how a **Business Analyst** can:
 
-- Translate complex operational execution into **clear business processes**
-- Identify **stage-specific operational risks**
-- Define **decision-oriented KPIs**
-- Design a **conceptual operational control system**
-- Support executive and operational decision-making through reporting
+- Analyze and structure complex operational processes  
+- Identify **phase-specific risks** and define mitigating controls  
+- Define **decision-oriented KPIs** linked to actions  
+- Design a **conceptual Operational Control & Reporting System**  
+- Support leadership decisions through structured reporting  
 
 ---
 
 ## Scope and Approach
 This repository represents a **conceptual business system design**, not a production software solution.
 
-It focuses on:
-- Process design and analysis
-- Risk identification and controls
-- KPI definition and action rules
-- Decision flows and escalation logic
-- Executive reporting and dashboard narratives
+The focus is on:
+- Business process analysis  
+- Operational risk and control definition  
+- KPI frameworks and action thresholds  
+- Decision flows and escalation logic  
+- Executive-level reporting narratives  
 
-Technical implementation (applications, infrastructure, integrations) is intentionally **out of scope**.
+Technical implementation details (applications, infrastructure, integrations) are intentionally **out of scope**.
 
 ---
 
@@ -89,47 +89,48 @@ operational-control-reporting-framework/
 ## Key Deliverables
 
 ### 1. Process Analysis
-- End-to-end operational process definition
-- Phase-based analysis (Preparation, Execution, Closure)
-- Identification of key operational risks and controls
+- End-to-end operational process overview  
+- Phase-based analysis (Preparation, Execution, Closure)  
+- Identification of operational risks and control mechanisms  
 
 ### 2. KPIs and Decision Rules
-- Definition of critical operational KPIs
-- KPI-to-action matrix linking metrics to decisions
-- Focus on leading and lagging indicators
+- Definition of critical operational KPIs  
+- KPI-to-action matrix linking metrics to decisions  
+- Emphasis on leading and lagging indicators  
 
 ### 3. Conceptual System Design
-- Operational Control & Reporting System overview
-- Decision flows for deviations, incidents, and data risks
-- Clear escalation logic and decision ownership
+- Operational Control & Reporting System overview  
+- Decision flows for deviations, incidents, and data integrity risks  
+- Clear escalation paths and decision ownership  
 
 ### 4. Executive Reporting
-- Executive dashboard narrative
-- Guidance on how leadership should interpret and act on indicators
-- Emphasis on decision support over descriptive reporting
+- Executive dashboard narrative  
+- Guidance on how leadership interprets indicators  
+- Focus on action and decision support, not descriptive reporting  
 
 ---
 
 ## Intended Audience
-This project is designed for:
+This project is intended for:
 
-- Business Analysts
-- Operations and Program Managers
-- PMO and Governance teams
-- Risk and Control stakeholders
-- Hiring managers evaluating BA capability in operational environments
+- Business Analysts  
+- Operations and Program Managers  
+- PMO, Governance, and Control teams  
+- Risk and Compliance stakeholders  
+- Hiring managers evaluating BA capability in operational environments  
 
 ---
 
 ## How to Use This Repository
 Readers can:
-- Review the **process analysis** to understand operational flow and risks
-- Explore the **KPI framework** to see how metrics drive decisions
-- Examine the **system design artifacts** to understand how reporting supports execution
-- Use the project as a **reference model** for operational control frameworks
+
+- Review the **process analysis** to understand operational flow and risks  
+- Explore the **KPI framework** to see how metrics drive decisions  
+- Examine the **system design artifacts** to understand decision logic  
+- Use the project as a **reference model** for operational control frameworks  
 
 ---
 
 ## Disclaimer
 This project is inspired by real-world large-scale operations.  
-All scenarios, data, structures, and examples are **fully anonymized and illustrative** and are intended solely for demonstration purposes.
+All scenarios, data, and structures are **fully anonymized and illustrative** and are intended solely for demonstration purposes.
