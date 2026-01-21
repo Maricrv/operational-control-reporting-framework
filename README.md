@@ -81,8 +81,8 @@ Recommended reading order:
    - [`06_system_design/decision_flows.md`](06_system_design/decision_flows.md)
 
 6. **Executive Reporting Perspective**  
-   - [`05_dashboard/executive_dashboard_narrative.md`](05_dashboard/executive_dashboard_narrative.md)
-
+   - [`05_dashboard/executive_dashboard_narrative.md`](05_dashboard/executive_dashboard_narrative.md)  
+   - [`05_dashboard/dashboard_description.md`](05_dashboard/dashboard_description.md)
 ---
 
 ## Repository Structure
@@ -108,7 +108,8 @@ operational-control-reporting-framework/
 │ └── sample_dataset.xlsx
 │
 05_dashboard/
-│ └── executive_dashboard_narrative.md
+│ ├── executive_dashboard_narrative.md
+│ └── executive_dashboard_description.md
 │
 06_system_design/
 │ ├── system_overview.md
@@ -117,6 +118,7 @@ operational-control-reporting-framework/
 │
 └── README.md
 ```
+
 ## Key Deliverables
 
 ### 1. Process Analysis
@@ -124,7 +126,7 @@ operational-control-reporting-framework/
 - Phase-based analysis (Preparation, Execution, Closure)  
 - Identification of operational risks and control mechanisms  
 
-📄 **Key files:**  
+ **Key files:**  
 - [`02_process_analysis/process_overview.md`](02_process_analysis/process_overview.md)  
 - [`02_process_analysis/process_stages.md`](02_process_analysis/process_stages.md)  
 
@@ -135,7 +137,7 @@ operational-control-reporting-framework/
 - KPI-to-action matrix linking metrics to decisions  
 - Emphasis on leading and lagging indicators  
 
-📄 **Key files:**  
+ **Key files:**  
 - [`03_kpis_and_metrics/kpi_definition.md`](03_kpis_and_metrics/kpi_definition.md)  
 - [`03_kpis_and_metrics/kpi_action_matrix.md`](03_kpis_and_metrics/kpi_action_matrix.md)  
 
@@ -146,7 +148,7 @@ operational-control-reporting-framework/
 - Decision flows for deviations, incidents, and data integrity risks  
 - Clear escalation paths and decision ownership  
 
-📄 **Key files:**  
+ **Key files:**  
 - [`06_system_design/system_overview.md`](06_system_design/system_overview.md)  
 - [`06_system_design/decision_flows.md`](06_system_design/decision_flows.md)  
 
@@ -154,12 +156,13 @@ operational-control-reporting-framework/
 
 ### 4. Executive Reporting
 - Executive dashboard narrative  
+- Dashboard structure, indicators, and layout description  
 - Guidance on how leadership interprets indicators  
 - Focus on action and decision support, not descriptive reporting  
 
-📄 **Key file:**  
+ **Key files:**  
 - [`05_dashboard/executive_dashboard_narrative.md`](05_dashboard/executive_dashboard_narrative.md)  
-
+- [`05_dashboard/dashboard_description.md`](05_dashboard/dashboard_description.md)
 ---
 
 ## Intended Audience
