@@ -36,6 +36,15 @@ The objective of this project is to demonstrate how a Business Analyst can:
 
 ---
 
+## System Design (Conceptual)
+This repository includes a conceptual design for an Operational Control & Reporting System:
+- System overview and decision flows
+- KPI-to-action rules
+- Executive dashboard narrative
+All content is anonymized and illustrative.
+
+---
+
 ## Repository Structure
 
 ```text
