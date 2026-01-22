@@ -2,7 +2,7 @@
 **Business Analyst Portfolio Project**
 
 ## Overview
-This repository presents a **Business Analyst case study** focused on **operational control, monitoring, and decision support** in a **large-scale, time-critical, distributed operation**.
+This repository presents a **Business Analyst case study** focused on **operational control, phase-based monitoring, and decision support in a large-scale, time-critical, distributed operation**.
 
 The project demonstrates how structured **process analysis, risk identification, KPIs, and reporting frameworks** support **real-time decision-making** and help ensure **100% execution completion under non-negotiable deadlines**.
 
@@ -32,7 +32,7 @@ This project demonstrates how a **Business Analyst** can:
 - Analyze and structure complex operational processes  
 - Identify **phase-specific risks** and define mitigating controls  
 - Define **decision-oriented KPIs** linked to actions  
-- Design a **conceptual Operational Control & Reporting System**  
+- Design a **phase-based Operational Control & Reporting System**  
 - Support leadership decisions through structured reporting  
 
 ---
@@ -123,7 +123,7 @@ operational-control-reporting-framework/
 
 ### 1. Process Analysis
 - End-to-end operational process overview  
-- Phase-based analysis (Preparation, Execution, Closure)  
+- Phase-based analysis aligned to implementation, testing, processing, and closure stages
 - Identification of operational risks and control mechanisms  
 
  **Key files:**  
